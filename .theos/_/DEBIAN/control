@@ -1,0 +1,10 @@
+Package: com.maximusprimate.myfirsttweak
+Name: myfirsttweak
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: An awesome MobileSubstrate tweak!
+Maintainer: Max
+Author: Max
+Section: Tweaks
+Version: 0.0.1-21+debug
+Installed-Size: 120
